@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bowen Xu / 徐博文"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
