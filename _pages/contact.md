@@ -9,4 +9,7 @@ redirect_from:
 
 ### Contact
 
-This allows you to denote <var>variables</var>.
+School of Information Systems
+Singapore Management University
+80 Stamford Road
+Singapore 178902

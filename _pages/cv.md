@@ -13,22 +13,22 @@ Education
 ======
 * Ph.D Candidate, August, 2017 - Present
     * School of Information System, Singapore Management University (SMU)
-    * Supervisor : Prof. (David Lo)[http://www.mysmu.edu/faculty/davidlo]
+    * Supervisor : Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo)
 * Master Degree, September, 2014 - March, 2017
     * School of Software Technology, Zhejiang University (ZJU)
-    * Supervisor : Prof. (Shanping Li)[http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498] and Prof. (Xin Xia)[https://research.monash.edu/en/persons/xin-xia]
+    * Supervisor : Prof. [Shanping Li](http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498) and Prof. [Xin Xia](https://research.monash.edu/en/persons/xin-xia)
 
 Work experience
 ======
 * May, 2017 - July, 2017: Research Associate
   * Singapore Management University (SMU)
   * SOftware Analytics Research Group (SOAR)
-  * Supervisor: Prof. (David Lo)[http://www.mysmu.edu/faculty/davidlo]
+  * Supervisor: Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo)
 
 * February, 2016 - July, 2016: Research Assistant
   * Nanyang Technological University (NTU)
   * Software Engineering Lab (SEL)
-  * Supervisor: Prof. (Zhenchang Xing)[https://cecs.anu.edu.au/people/zhenchang-xing]
+  * Supervisor: Prof. [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing)
 
 Skills
 ======
@@ -42,7 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,7 +52,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
