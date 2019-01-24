@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Candidate, August, 2017 - Present
+    * School of Information System, Singapore Management University (SMU)
+    * Supervisor : Prof. (David Lo)[http://www.mysmu.edu/faculty/davidlo]
+* Master Degree, September, 2014 - March, 2017
+    * School of Software Technology, Zhejiang University (ZJU)
+    * Supervisor : Prof. (Shanping Li)[http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498] and Prof. (Xin Xia)[https://research.monash.edu/en/persons/xin-xia]
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May, 2017 - July, 2017: Research Associate
+  * Singapore Management University (SMU)
+  * SOftware Analytics Research Group (SOAR)
+  * Supervisor: Prof. (David Lo)[http://www.mysmu.edu/faculty/davidlo]
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* February, 2016 - July, 2016: Research Assistant
+  * Nanyang Technological University (NTU)
+  * Software Engineering Lab (SEL)
+  * Supervisor: Prof. (Zhenchang Xing)[https://cecs.anu.edu.au/people/zhenchang-xing]
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Natural Language Processing
+* Data Mining
 
 Publications
 ======
@@ -54,6 +54,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
