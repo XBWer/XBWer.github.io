@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV PDF version](https://github.com/XBWer/xbwer.github.io/tree/master/Academic_CV/cv.pdf)
+
 Education
 ======
 * Ph.D Candidate, August, 2017 - Present
@@ -35,6 +37,13 @@ Skills
 * Machine Learning
 * Natural Language Processing
 * Data Mining
+
+
+Awards
+=====
+* Excellent Graduate of Zhejiang Province, Ministry of Education of the People’s Republic of Zhejiang Province (top3%), China, 2017
+* Scholarship of State Street (top5%), State Street Corp, U.S.A, 2014
+* National Scholarship (top3%), Ministry of Education of the People’s Republic of China, China, 2012
 
 Publications
 ======
