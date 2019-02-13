@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I really enjoy researching on software engineering, my goal is to create useful and interesting stuffs!
+> I really enjoy researching on software engineering, my goal is to create useful and interesting stuffs!

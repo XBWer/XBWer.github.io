@@ -10,9 +10,6 @@ redirect_from:
 ### Contact
 
 School of Information Systems
-
 Singapore Management University
-
 80 Stamford Road
-
 Singapore 178902
