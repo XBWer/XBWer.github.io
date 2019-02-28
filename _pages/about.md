@@ -11,7 +11,7 @@ redirect_from:
 > I really enjoy researching on software engineering, my goal is to create useful and interesting stuffs!
 
 
-# Research Interets
+# Research Interests
 - Mining Software Repository
 
 
