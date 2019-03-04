@@ -40,9 +40,10 @@ Work experience
 Publications
 ======
 * Conference Paper
+    * 2019
+        * [C8] Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, **Bowen Xu**, Ming Li, and David Lo. "DeepReview: Automatic Code Review using Deep Multi-Instance Learning". The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019). Accepted as a Full Paper. [PDF]()  [Bib]() 
     * 2018
-        * [C8] **Bowen Xu**, Amirreza Shirani, David Lo and Mohammad Amin Alipour. “Prediction of Relatedness in Stack Overflow: Deep Learning vs. SVM - A Reproducibility Study”. 12th International Symposium on  Empirical Software Engineering and Measurement (ESEM 2018). Accepted as a Full Paper. **Highly Commended Full Paper Award** [PDF]()  [Bib]()
-        * [C7] Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, **Bowen Xu**, Ming Li, and David Lo. "DeepReview: Automatic Code Review using Deep Multi-Instance Learning". The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD). Accepted as a Full Paper. [PDF]()  [Bib]()
+        * [C7] **Bowen Xu**, Amirreza Shirani, David Lo and Mohammad Amin Alipour. “Prediction of Relatedness in Stack Overflow: Deep Learning vs. SVM - A Reproducibility Study”. 12th International Symposium on  Empirical Software Engineering and Measurement (ESEM 2018). Accepted as a Full Paper. **Highly Commended Full Paper Award** [PDF]()  [Bib]()
     * 2017
         * [C6] **Bowen Xu**, Zhenchang Xing, Xin Xia, David Lo. “AnswerBot - Automated Generation of Answer Summary to Developers’ Technical Questions”. 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE 2017). Accepted as a Full Paper. [PDF]()  [Bib]()
     * 2016
@@ -59,7 +60,7 @@ Publications
 
 * Tool Demo Paper
     * 2017
-        * [T1] **Bowen Xu**, Zhenchang Xing, Xin Xia, David Lo Xuan-Bach D. Le. “XSearch: A DomainSpecific Cross-Language Relevant Question Retrieval Tool”. 11th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017). Accepted as a tool demo paper. [PDF]()  [Bib]()
+        * [T1] **Bowen Xu**, Zhenchang Xing, Xin Xia, David Lo Xuan-Bach D. Le. “XSearch: A DomainSpecific Cross-Language Relevant Question Retrieval Tool”. 11th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017). Accepted as a tool demo paper. [PDF]()  [Bib]() [Video](https://youtu.be/GP3avNER0Os) [Demo](http://67.230.191.128:8080/XSearch)
 
 Awards
 =====
