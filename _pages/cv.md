@@ -11,7 +11,7 @@ redirect_from:
 
 [CV PDF version](https://github.com/XBWer/xbwer.github.io/tree/master/Academic_CV/cv.pdf)
 
-Education
+<!-- Education
 ======
 * Ph.D Candidate, August, 2017 - Present
     * School of Information System, Singapore Management University (SMU)
@@ -49,8 +49,8 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
