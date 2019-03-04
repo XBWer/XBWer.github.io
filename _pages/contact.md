@@ -7,8 +7,6 @@ redirect_from:
   - /contact.html
 ---
 
-### Contact
-
 School of Information Systems<br />
 Singapore Management University<br />
 80 Stamford Road<br />
