@@ -13,8 +13,8 @@ redirect_from:
 
 Research Interests
 ======
-* Mining Software Repository - **How to dig software knowledge?**
-* Software Knowledge Management - **How to manage software knowledge?**
+* Mining Software Repository - **How to *dig* software knowledge?**
+* Software Knowledge Management - **How to *cook* software knowledge?**
 
 Education
 ======
