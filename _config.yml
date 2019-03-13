@@ -178,9 +178,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  thinkings:
-    output: true
-    permalink: /:collection/:path/
+  # thinkings:
+  #   output: true
+  #   permalink: /:collection/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _thinkings
-  - scope:
-      path: ""
-      type: thinkings
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: thinkings
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _portfolio
   # - scope:
   #     path: ""
