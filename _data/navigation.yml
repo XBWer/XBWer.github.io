@@ -15,8 +15,8 @@ main:
   - title: "Selected Projects"
     url: /selected-projects/
 
-  - title: "Thinkings"
-    url: /thinkings/
+  # - title: "Thinkings"
+  #   url: /thinkings/
     
   - title: "CV"
     url: /cv/
