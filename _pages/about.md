@@ -14,6 +14,6 @@ I am currently a PhD candidate in the 2nd year from the School of Information Sy
 
 Research Interests
 ======
-Main goal: Make programmers' (include me) life easier.
+Main goal: Make programmers' (me too :)) life easier.
 * Mining Software Repository - **How to *dig* software knowledge?**
 * Software Knowledge Management - **How to *cook* software knowledge?**
