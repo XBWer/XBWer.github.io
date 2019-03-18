@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Bowen Xu"
 title_separator          : "-"
 name                     : &name "Bowen Xu"
 description              : &description "Software Engineering Researcher"
