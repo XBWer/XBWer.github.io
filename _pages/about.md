@@ -14,7 +14,7 @@ I am currently a PhD candidate in the 2nd year from the [School of Information S
 
 Research Interests
 ======
-#### Software Knowledge Discovery, Management, and Applications
+### Software Knowledge Discovery, Management, and Applications
 * Management
   - Crowd Knowledge Linking
     - [ESEM-18] **Bowen Xu**, Amirreza Shirani, David Lo and Mohammad Amin Alipour. “Prediction of Relatedness in Stack Overflow: Deep Learning vs. SVM - A Reproducibility Study”. 12th International Symposium on  Empirical Software Engineering and Measurement (ESEM 2018). Accepted as a Full Paper. **Highly Commended Full Paper Award** [PDF](https://xbwer.github.io/publications/ESEM2018.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/ESEM2018_bib.html)
