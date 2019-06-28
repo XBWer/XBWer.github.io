@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV PDF version](https://github.com/XBWer/xbwer.github.io/blob/master/CV.pdf)
+[CV PDF version](https://xbwer.github.io/CV.pdf)
 
 Education
 ======
