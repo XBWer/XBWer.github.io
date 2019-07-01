@@ -18,7 +18,7 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.sg/citations?user=rxslINgAAAAJ&hl=en).
 
-* Conference Paper
+* Conference Papers
     * 2019
         * [C8] Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, **Bowen Xu**, Ming Li, and David Lo. "DeepReview: Automatic Code Review using Deep Multi-Instance Learning". The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019). Accepted as a Full Paper. [PDF](https://xbwer.github.io/publications/PAKDD2019.pdf)  <!-- [BIB]() -->
     * 2018
@@ -33,12 +33,17 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
         - [C2] **Bowen Xu**, David Lo, Xin Xia, Ashish Sureka, Shanping Li. “EFSPredictor: Predicting Configuration Bugs With Ensemble Feature Selection”. 22nd Asia-Pacific Software Engineering Conference (APSEC 2015). Accepted as a Full Paper. [PDF](https://xbwer.github.io/publications/APSEC2015.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/APSEC2015_bib.html)
         - [C1] Yun Zhang, David Lo, Xin Xia, **Bowen Xu**, Jianling Sun, Shanping Li. “Combining Software Metrics and Text Features for Vulnerable File Prediction”. 20th International Conference on Engineering of Complex Computer Systems (ICECCS 2015). Accepted as a Full Paper. [PDF](https://xbwer.github.io/publications/ICECCS2015.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/ICECCS2015_bib.html)
         
-* Journal Paper
+* Journal Papers
     * 2017
         * [J1] **Bowen Xu**, Zhenchang Xing, Xin Xia, David Lo, Shanping Li. “Domain-Specific Cross-Language Relevant Question Retrieval”. Empirical Software Engineering (EMSE). Accepted. [PDF](https://xbwer.github.io/publications/EMSE2017.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/EMSE2017_bib.html)
 
-* Tool Demo Paper
+* Tool Demo Papers
     * 2019
-        * [T2] Liang Cai, Haoye Wang, **Bowen Xu**, Qiao Huang, Xin Xia, David Lo, Zhenchang Xing. “AnswerBot: An Answer Summary Generation Tool Based on Stack Overflow”. The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. [PDF-TBA]()  [BIB-TBA]() [Video](https://youtu.be/EfHp_Cbeg2w) [Demo](http://answerbot.cn)
+        * [T2] Liang Cai, Haoye Wang, **Bowen Xu**, Qiao Huang, Xin Xia, David Lo, Zhenchang Xing. “AnswerBot: An Answer Summary Generation Tool Based on Stack Overflow”. The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2019). Accepted as a tool demo paper. [PDF](https://xbwer.github.io/publications/FSE2019_Tool.pdf)  [BIB-TBA]() [Video](https://youtu.be/EfHp_Cbeg2w) [Demo](http://answerbot.cn)
     * 2017
         * [T1] **Bowen Xu**, Zhenchang Xing, Xin Xia, David Lo Xuan-Bach D. Le. “XSearch: A DomainSpecific Cross-Language Relevant Question Retrieval Tool”. 11th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE 2017). Accepted as a tool demo paper. [PDF](https://xbwer.github.io/publications/FSE2017_Tool.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/FSE2017_Tool_bib.html) [Video](https://youtu.be/GP3avNER0Os) [Demo](http://67.230.191.128:8080/XSearch)
+
+
+* Workshop Papers
+    * 2019
+        * [W1] Amirreza Shirani, **Bowen Xu**, David Lo, Thamar Solorio and Mohammad Amin Alipour. “Question Relatedness on Stack Overflow: The Task, Dataset, and Corpus-inspired Model”. AAAI 2019 Reasoning and Complex QA Workshop (AAAI-RCQA).
