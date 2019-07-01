@@ -35,8 +35,8 @@ Work experience
 
 Awards
 =====
-* [Graduate Instructor Certification](), Singapore Management University, Singapore, 2019.
-* [English Communication Skills for PhD Candidates Certification](), British Council, Singapore, 2019.
+* [Graduate Instructor Certification](https://xbwer.github.io/GI_Certification.pdf), Singapore Management University, Singapore, 2019.
+* [English Communication Skills for PhD Candidates Certification](https://xbwer.github.io/phd_communication_skill.pdf), British Council, Singapore, 2019.
 * Excellent Graduate of Zhejiang Province, Ministry of Education of the People’s Republic of Zhejiang Province (top3%), China, 2017.
 * Scholarship of State Street (top5%), State Street Corp, U.S.A, 2014.
 * National Scholarship (top3%), Ministry of Education of the People’s Republic of China, China, 2012.
