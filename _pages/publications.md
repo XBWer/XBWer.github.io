@@ -20,7 +20,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * Conference Papers
     * 2019
-        * [C8] Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, **Bowen Xu**, Ming Li, and David Lo. "DeepReview: Automatic Code Review using Deep Multi-Instance Learning". The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019). Accepted as a Full Paper. [PDF](https://xbwer.github.io/publications/PAKDD2019.pdf)  <!-- [BIB]() -->
+        * [C8] Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, **Bowen Xu**, Ming Li, and David Lo. "DeepReview: Automatic Code Review using Deep Multi-Instance Learning". The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019). Accepted as a Full Paper. [PDF](https://xbwer.github.io/publications/PAKDD2019.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/PAKDD2019_bib.html)
     * 2018
         * [C7] **Bowen Xu**, Amirreza Shirani, David Lo and Mohammad Amin Alipour. “Prediction of Relatedness in Stack Overflow: Deep Learning vs. SVM - A Reproducibility Study”. 12th International Symposium on  Empirical Software Engineering and Measurement (ESEM 2018). Accepted as a Full Paper. **[Highly Commended Full Paper Award](https://xbwer.github.io/publications/ESEM_highly_commended_full_paper_award.pdf)** [PDF](https://xbwer.github.io/publications/ESEM2018.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/ESEM2018_bib.html)
     * 2017

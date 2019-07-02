@@ -33,6 +33,12 @@ Work experience
   * Software Engineering Lab (SEL)
   * Supervisor: Prof. [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing)
 
+Professional Service
+======
+* External Reviewer for the 19th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM’19.
+* External Reviewer for the 2nd International Workshop on Software Analytics, SWAN’16.
+* External Reviewer for the 2016 Annual Conference on Software Analysis, Testing and Evolution, SATE’16.
+
 Awards
 =====
 * [Graduate Instructor Certification](https://xbwer.github.io/GI_Certification.pdf), Singapore Management University, Singapore, 2019.
