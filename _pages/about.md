@@ -15,7 +15,7 @@ I am currently a PhD candidate in the 2nd year from the [School of Information S
 Research Interests
 ======
 
-![Intelligent Software Analytics-w70](https://github.com/XBWer/xbwer.github.io/blob/master/research_interests.jpg)
+![Intelligent Software Analytics](https://raw.githubusercontent.com/xbwer/xbwer.github.io/master/research_interests.jpg)
 
 * Management
   - Knowledge Linking
