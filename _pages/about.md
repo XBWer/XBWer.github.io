@@ -14,7 +14,9 @@ I am currently a PhD candidate in the 2nd year from the [School of Information S
 
 Research Interests
 ======
-### Software Knowledge Discovery, Management, and Applications
+
+![Intelligent Software Analytics-w70](https://github.com/XBWer/xbwer.github.io/blob/master/research_interests.jpg)
+
 * Management
   - Knowledge Linking
     - [ESEM-18-Extension] “Prediction of Relatedness in Stack Overflow: Deep Learning vs. SVM - A Reproducibility Study”. **Highly Commended Full Paper Award** [PDF](https://xbwer.github.io/publications/ESEM2018.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/ESEM2018_bib.html)
