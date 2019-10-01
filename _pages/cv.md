@@ -35,6 +35,7 @@ Work experience
 
 Professional Service
 ======
+* Journal referee, Journal of Systems and Software, 2019.
 * External Reviewer for the 19th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM’19.
 * External Reviewer for the 2nd International Workshop on Software Analytics, SWAN’16.
 * External Reviewer for the 2016 Annual Conference on Software Analysis, Testing and Evolution, SATE’16.
