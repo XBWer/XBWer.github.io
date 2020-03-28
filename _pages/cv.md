@@ -33,25 +33,27 @@ Work experience
   * Software Engineering Lab (SEL)
   * Supervisor: Prof. [Zhenchang Xing](https://cecs.anu.edu.au/people/zhenchang-xing)
 
+Teaching
+======
+* January, 2020 - April, 2020: Teaching Assistant
+  * Singapore Management University (SMU)
+  * IS706 - Software Mining and Analysis
+* [Graduate Instructor Certification](https://xbwer.github.io/GI_Certification.pdf), Singapore Management University, Singapore, 2019.
+
 Professional Service
 ======
-* Journal referee, Journal of Systems and Software, 2019.
-* External Reviewer for the 19th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM’19.
-* External Reviewer for the 2nd International Workshop on Software Analytics, SWAN’16.
-* External Reviewer for the 2016 Annual Conference on Software Analysis, Testing and Evolution, SATE’16.
+* Journal referee, ACM Transactions on Information Systems (TOIS), 2020.
+* Journal referee, Journal of Systems and Software (JSS), 2019.
+* External Reviewer for the 19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), 2019.
+* External Reviewer for the 2nd International Workshop on Software Analytics (SWAN), 2016.
+* External Reviewer for the 2016 Annual Conference on Software Analysis, Testing and Evolution (SATE), 2016.
 
 Awards
 =====
-* [Graduate Instructor Certification](https://xbwer.github.io/GI_Certification.pdf), Singapore Management University, Singapore, 2019.
 * [English Communication Skills for PhD Candidates Certification](https://xbwer.github.io/phd_communication_skill.pdf), British Council, Singapore, 2019.
 * Excellent Graduate of Zhejiang Province, Ministry of Education of the People’s Republic of Zhejiang Province (top3%), China, 2017.
 * Scholarship of State Street (top5%), State Street Corp, U.S.A, 2014.
 * National Scholarship (top3%), Ministry of Education of the People’s Republic of China, China, 2012.
-
-
-
-
-
 
 
 
