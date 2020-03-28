@@ -19,7 +19,7 @@ Education
 * Master Degree, September, 2014 - March, 2017
     * School of Software Technology, Zhejiang University (ZJU)
     * Supervisor : Prof. [Shanping Li](http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498) and Prof. [Xin Xia](https://research.monash.edu/en/persons/xin-xia)
-* Bachelor Degree, September, 2010 - March, 2014
+* Bachelor Degree, September, 2010 - June, 2014
     * College of Computer Science and Technology, Hunan City University (HNCU)
 
 Work experience
