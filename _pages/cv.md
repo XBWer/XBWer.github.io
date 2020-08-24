@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV PDF version](https://xbwer.github.io/CV.pdf)
+[CV PDF version](https://xbwer.github.io/files/CV.pdf)
 
 Education
 ======
@@ -38,7 +38,7 @@ Teaching
 * January, 2020 - April, 2020: Teaching Assistant
   * Singapore Management University (SMU)
   * IS706 - Software Mining and Analysis
-* [Graduate Instructor Certification](https://xbwer.github.io/GI_Certification.pdf), Singapore Management University, Singapore, 2019.
+* [Graduate Instructor Certification](https://xbwer.github.io/files/GI_Certification.pdf), Singapore Management University, Singapore, 2019.
 
 Professional Service
 ======
@@ -50,7 +50,8 @@ Professional Service
 
 Awards
 =====
-* [English Communication Skills for PhD Candidates Certification](https://xbwer.github.io/phd_communication_skill.pdf), British Council, Singapore, 2019.
+* [Presidential Doctoral Fellowship](https://xbwer.github.io/files/PDF-SIS_XuBowen.pdf), Singapore Management University, Singapore, 2020.
+* [English Communication Skills for PhD Candidates Certification](https://xbwer.github.io/files/phd_communication_skill.pdf), British Council, Singapore, 2019.
 * Excellent Graduate of Zhejiang Province, Ministry of Education of the People’s Republic of Zhejiang Province (top3%), China, 2017.
 * Scholarship of State Street (top5%), State Street Corp, U.S.A, 2014.
 * National Scholarship (top3%), Ministry of Education of the People’s Republic of China, China, 2012.
