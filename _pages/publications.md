@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Talks & Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,9 +16,20 @@ author_profile: true
 {% endfor %} -->
 
 
+
+# Talks
+* **_Why Reinventing the Wheels? An Empirical Study on Library Reuse and Re-implementation_**, [ICSE 2020 Journal First, 10 Jul 2020, I21-Version Control and Programming](https://2020.icse-conferences.org/details/icse-2020-Journal-First/8/Why-Reinventing-the-Wheels-An-Empirical-Study-on-Library-Reuse-and-Re-implementation)
+* **_Benchmarking Example-Based Program
+Transformation Inference Tools_**, Workshop on Program Transformation, 7 Dec 2020, Seminar Room 3-1, School of Information Systems, Singapore Management University, 80 Stamford Road, Singapore
+
+
+# Publications
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.sg/citations?user=rxslINgAAAAJ&hl=en).
 
 * Conference Papers
+    * 2020
+        * [C9] Ting Zhang, **Bowen Xu (_Corresponding Author_)**, Ferdian Thung, Stefanus Agus Haryono, David Lo, Lingxiao Jiang. "Sentiment Analysis for Software Engineering: How Far Can Pre-trained Transformer Models Go?". 36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020). Accepted as a Full Paper. [PDF](https://xbwer.github.io/publications/ICSME2020.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/ICSME_bib.html) [Code](https://github.com/soarsmu/SA4SE)
     * 2019
         * [C8] Heng-Yi Li, Shu-Ting Shi, Ferdian Thung, Xuan Huo, **Bowen Xu**, Ming Li, and David Lo. "DeepReview: Automatic Code Review using Deep Multi-Instance Learning". The 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2019). Accepted as a Full Paper. [PDF](https://xbwer.github.io/publications/PAKDD2019.pdf)  [BIB](https://raw.githubusercontent.com/XBWer/xbwer.github.io/master/_publications/PAKDD2019_bib.html)
     * 2018
