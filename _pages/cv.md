@@ -50,6 +50,7 @@ Professional Service
 
 Awards
 =====
+* [Dean's List](https://xbwer.github.io/files/DeansList.pdf), Singapore Management University, Singapore, 2020.
 * [Presidential Doctoral Fellowship](https://xbwer.github.io/files/PDF-SIS_XuBowen.pdf), Singapore Management University, Singapore, 2020.
 * [English Communication Skills for PhD Candidates Certification](https://xbwer.github.io/files/phd_communication_skill.pdf), British Council, Singapore, 2019.
 * Excellent Graduate of Zhejiang Province, Ministry of Education of the People’s Republic of Zhejiang Province (top3%), China, 2017.
