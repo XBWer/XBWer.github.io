@@ -15,7 +15,9 @@ I am currently a PhD candidate in the 3rd year from the [School of Information S
 Research Interests
 ======
 
-![Intelligent Software Analytics](https://raw.githubusercontent.com/xbwer/xbwer.github.io/master/research_interests.jpg)
+<img src="https://raw.githubusercontent.com/xbwer/xbwer.github.io/master/research_interests.jpg" width="450" height="400" />
+
+<!--![Intelligent Software Analytics](https://raw.githubusercontent.com/xbwer/xbwer.github.io/master/research_interests.jpg)-->
 
 * **Discovery**
   - Code Reuse and Re-implementation
