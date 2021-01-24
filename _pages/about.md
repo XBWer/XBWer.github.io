@@ -10,7 +10,7 @@ redirect_from:
 
 > I really enjoy researching on software engineering, my goal is to create useful and interesting stuff!
 
-I am currently a PhD candidate in the 3rd year from the [School of Information System](https://sis.smu.edu.sg) of the Singapore Management University (SMU), supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo). Before I joined SMU, I received my Master Degree of Engineering in June 2017 from the Colloge of Computer Science and Technology of Zhejiang University, supervised by Prof. [Shanping Li](http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498) and Prof. [Xin Xia](https://research.monash.edu/en/persons/xin-xia).
+I am currently a PhD candidate in the 4th year from the [School of Computing and Information Systems](https://scis.smu.edu.sg/) of the Singapore Management University (SMU), supervised by Prof. [David Lo](http://www.mysmu.edu/faculty/davidlo). Before I joined SMU, I received my Master Degree of Engineering in June 2017 from the Colloge of Computer Science and Technology of Zhejiang University, supervised by Prof. [Shanping Li](http://www.cs.zju.edu.cn/english/redir.php?catalog_id=103927&object_id=104498) and Prof. [Xin Xia](https://research.monash.edu/en/persons/xin-xia).
 
 Research Interests
 ======
