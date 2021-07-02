@@ -27,7 +27,7 @@ Research Interests
   - Knowledge Linking
     - [ESEM-18-Extension] "Prediction of Relatedness in Stack Overflow: Deep Learning vs. SVM - A Reproducibility Study". **[Highly Commended Full Paper Award](https://maxxbw.github.io/publications/ESEM_highly_commended_full_paper_award.pdf)** [PDF](https://maxxbw.github.io/publications/ESEM2018.pdf)  [BIB](https://raw.githubusercontent.com/maxxbw/maxxbw.github.io/master/_publications/ESEM2018_bib.html) [Slide](https://maxxbw.github.io/publications/ESEM2018-Slide.pdf) [Code](https://github.com/maxxbw/ESEM2018)
     - [ASE-16] "Predicting Semantically Linkable Knowledge in Developer Online Forums via Convolutional Neural Network". [PDF](https://maxxbw.github.io/publications/ASE2016.pdf)  [BIB](https://raw.githubusercontent.com/maxxbw/maxxbw.github.io/master/_publications/ASE2016_bib.html) [Code](https://github.com/maxxbw/ase16-CNN)
-    - Knowledge Representation
+  - Knowledge Representation
     - [TSE-21] "Post2Vec: Learning Distributed Representations of Stack Overflow Posts". [PDF](https://maxxbw.github.io/publications/TSE21_Post2Vec_preprint.pdf)
     
 * **Applications**
